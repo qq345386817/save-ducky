@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://save-ducky.luopeike.com/sitemap.xml
